@@ -1,8 +1,8 @@
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #05D686; color: #BEBEBE;"> 데이터 손질의 미학 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 귀찮아도 끝까지 정성을 들였을 때, 비로소 완성도 높은 작품이 탄생합니다. </div> 
+    <h2 style="border-bottom: 1px solid #05D686; color: #BEBEBE;"> 경제학과 통계학 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 귀찮음과 시간이 만들어내는 예술 by 최강록 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
